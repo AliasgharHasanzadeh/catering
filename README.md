@@ -7,7 +7,7 @@
   #Installation**
 1. Clone the repository:
 ```bash
-   git clone https://github.com/AliasgharHasanzadeh/catering.git
+git clone https://github.com/AliasgharHasanzadeh/catering.git
    ```
 2. Navigate to the project directory:
 ```bash
@@ -17,3 +17,5 @@ cd your-repo
 ```
 npm install
 ```
+![image](https://github.com/user-attachments/assets/0bd78606-cc88-40ef-960d-11a90e2424ca)
+
