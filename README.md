@@ -6,12 +6,12 @@
 - ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/AliasgharHasanzadeh/catering.git
    ```
 2. Navigate to the project directory:
-  ```bash
-    cd your-repo
+```bash
+cd your-repo
 ```
 3. Install the required dependencies:
 ```
