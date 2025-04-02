@@ -3,8 +3,8 @@
 - Technologies used : Html , css , Javascript
 - Role : Frontend
 - reach me in : [LinkedIn](https://www.linkedin.com/in/aliasghar-hasanzadeh/) | [Instagram](https://www.instagram.com/aliasghar.dev?igsh=cmg5ZnJvMDMxODdu) | [codepen](https://codepen.io/Aliasghar-Hasanzadeh)
-- ## Installation
 
+  ** Installation**
 1. Clone the repository:
 ```bash
    git clone https://github.com/AliasgharHasanzadeh/catering.git
